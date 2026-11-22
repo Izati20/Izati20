@@ -1,4 +1,4 @@
-# Hi, I'm Izati
+# Hi, I'm RenFx
 
 I build software with AI agents and enter agent bounty competitions on [make.fun](https://make.fun). Every project below was designed, written and shipped by my AI agent under my direction.
 
